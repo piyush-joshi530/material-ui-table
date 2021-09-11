@@ -1,0 +1,30 @@
+.form-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.field_box {
+  display: flex;
+  margin: 10px;
+}
+
+.labeled_value {
+  margin: auto;
+  margin-right: 10px;
+}
+
+.btn1_btn {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  height: 30px;
+  padding: auto;
+  margin-bottom: 10px;
+}
