@@ -1,0 +1,15 @@
+.Container {
+  width: 100%;
+  height: 70px;
+  background-color: bisque;
+}
+
+/* .Box{ */
+/* }  */
+
+.content-box {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  /* padding-top: 30px; */
+}
